@@ -1,29 +1,33 @@
-# Hi there, I'm Ken 👋
+# Hi, I'm Ken 👨‍💻
 
-Welcome to my GitHub profile! I'm a developer with a passion for coding and learning new technologies.
+Welcome to my profile! I'm a passionate developer who loves **building things** and learning new technologies. Here’s a quick overview of what I do.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [My Awesome Project](https://github.com/ken/awesome-project)
-- 🌱 I’m currently learning Machine Learning and Cloud Computing
-- 👯 I’m looking to collaborate on interesting open-source projects
-- 🤔 I’m looking for help with developing mobile applications
-- 💬 Ask me about web development, React, or anything related to tech!
-- 📫 How to reach me: [ken.email@example.com](mailto:ken.email@example.com)
-- ⚡ Fun fact: I love hiking and photography
+- 🌱 I’m currently learning **React Native** and **AWS**
+- 👯 I’m open to collaboration on open-source projects
+- 💬 Ask me about **web development**, **DevOps**, **cloud computing**, or anything tech-related
+- 📫 Reach me at: [ken.email@example.com](mailto:ken.email@example.com)
 
-## 🔧 Languages and Tools
-![Languages](https://img.shields.io/badge/Code-JavaScript-blue?style=for-the-badge&logo=javascript)
-![Tools](https://img.shields.io/badge/Tools-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
+## 💻 My Skills
+- **Programming**: JavaScript, Python, C++
+- **Web Development**: React, Node.js, Express, HTML, CSS
+- **Mobile Development**: React Native, Expo
+- **Tools**: Git, Docker, Kubernetes, AWS
 
-## 📈 GitHub Stats
-![Ken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ken&show_icons=true&hide_title=true)
+## 📊 GitHub Stats
+![Ken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ken&show_icons=true&count_private=true&hide_title=true)
 
-## 🔗 Connect with me
+## 🏆 GitHub Streaks
+![Ken's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ken)
+
+## 📌 My Latest Projects
+- [Project 1](https://github.com/ken/project1) - **A cool web app built with React**
+- [Project 2](https://github.com/ken/project2) - **A mobile app built with React Native**
+
+## 📝 Blog Posts
+- [How to Build a React App](https://ken.dev/blog/how-to-build-react-app)
+- [Intro to Cloud Computing](https://ken.dev/blog/cloud-computing-intro)
+
+## 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/ken/)
 - [Twitter](https://twitter.com/ken/)
-- [Website](https://ken.dev)
-
-## 📝 My Latest Blog Posts
-- [How to Build a Full Stack App in React](https://ken.dev/blog/react-full-stack)
-- [Intro to Machine Learning](https://ken.dev/blog/ml-introduction)
-
