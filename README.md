@@ -1,33 +1,42 @@
-# Hi, I'm Ken 👨‍💻
+# Hello, I'm Ken 👋
 
-Welcome to my profile! I'm a passionate developer who loves **building things** and learning new technologies. Here’s a quick overview of what I do.
+I'm a developer passionate about creating beautiful and efficient software. Welcome to my GitHub!
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **React Native** and **AWS**
-- 👯 I’m open to collaboration on open-source projects
-- 💬 Ask me about **web development**, **DevOps**, **cloud computing**, or anything tech-related
-- 📫 Reach me at: [ken.email@example.com](mailto:ken.email@example.com)
+- 🔭 I’m currently working on [My Awesome Project](https://github.com/ken/awesome-project)
+- 🌱 I’m learning **Machine Learning**, **Cloud Computing**, and **Kubernetes**
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about **web development**, **React**, **JavaScript**, or **cloud solutions**
+- 📫 Contact me: [ken.email@example.com](mailto:ken.email@example.com)
 
-## 💻 My Skills
-- **Programming**: JavaScript, Python, C++
-- **Web Development**: React, Node.js, Express, HTML, CSS
-- **Mobile Development**: React Native, Expo
-- **Tools**: Git, Docker, Kubernetes, AWS
+## 🛠 Skills & Technologies
 
-## 📊 GitHub Stats
-![Ken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ken&show_icons=true&count_private=true&hide_title=true)
+### Programming Languages:
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-11-orange?style=flat-square&logo=java)
 
-## 🏆 GitHub Streaks
-![Ken's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ken)
+### Frameworks & Tools:
+![React](https://img.shields.io/badge/React-16.x-brightgreen?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-v16.x-green?style=flat-square&logo=node.js)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker)
 
-## 📌 My Latest Projects
-- [Project 1](https://github.com/ken/project1) - **A cool web app built with React**
-- [Project 2](https://github.com/ken/project2) - **A mobile app built with React Native**
+### Cloud:
+![AWS](https://img.shields.io/badge/AWS-EC2-yellow?style=flat-square&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-blue?style=flat-square&logo=microsoftazure)
+
+## 📈 GitHub Stats
+![Ken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ken&count_private=true&show_icons=true&hide_title=true)
+
+## 📌 Featured Projects
+- [React Todo App](https://github.com/ken/react-todo) - A simple task manager app built with React.
+- [Machine Learning Models](https://github.com/ken/ml-models) - A collection of ML models for predictions and analysis.
 
 ## 📝 Blog Posts
-- [How to Build a React App](https://ken.dev/blog/how-to-build-react-app)
-- [Intro to Cloud Computing](https://ken.dev/blog/cloud-computing-intro)
+- [How to Learn JavaScript Effectively](https://ken.dev/blog/learn-javascript)
+- [Exploring AWS for Beginners](https://ken.dev/blog/aws-for-beginners)
 
-## 🔗 Connect with me:
+## 📫 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/ken/)
 - [Twitter](https://twitter.com/ken/)
+- [Website](https://ken.dev)
